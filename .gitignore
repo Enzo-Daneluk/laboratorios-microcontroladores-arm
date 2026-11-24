@@ -1,0 +1,25 @@
+# Editores e sistema
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Keil uVision
+Objects/
+Listings/
+RTE/
+*.uvguix.*
+*.axf
+*.elf
+*.bin
+*.hex
+*.htm
+*.lnp
+*.map
+*.dep
+*.crf
+*.d
+*.o
